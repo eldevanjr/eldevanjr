@@ -1,4 +1,15 @@
-### Olá, me chamo Eldevan Nery Junior 👋
+### Hi there, I'm  Eldevan Nery Junior. 👋
+
+
+**About me**
+
+- 💼 FullStack Developer at [Infokaw](https://infokaw.com.br/)
+
+- ❤️ I love writing Java!
+
+- 💬 Ask me about anything [here](https://github.com/eldevanjr/eldevanjr/issues)
+
+
 
 <div>
   <a href="https://github.com/eldevanjr">
