@@ -3,7 +3,7 @@
 
 **About me**
 
-- 💼 FullStack Developer at [Infokaw](https://infokaw.com.br/)
+- 💼 FullStack Developer
 
 - ❤️ I love writing Java!
 
