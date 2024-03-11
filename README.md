@@ -16,6 +16,17 @@
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eldevanjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars"/> --!>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldevanjr&layout=compact&langs_count=5&theme=tokyonight"/>
 </div>
+<div align="center" dir="center">
+  <div align="center">
+    <h4>Visitantes do perfil desde 11/04/24</h4>
+  </div>
+
+  <img
+    src="https://profile-counter.glitch.me/eldevanjr/count.svg"
+    alt="Visitantes no perfil"
+  />
+</div>
+    
 <!--
 **eldevanjr/eldevanjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
